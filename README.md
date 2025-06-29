@@ -1,7 +1,7 @@
-## Hey this is Andrea, thanks for stopping by 😁✌️
+## Hi, I'm Andrea! Thanks for dropping by 😁✌️
 
 # 💫 About Me:
-Professional:<br>🎓 Recent data science graduate with a background in mathematics and statistics<br>🌱 Exploring GANs and LLMs<br>🧠 Currently learning agents<br><br>Personal:<br>🌍 Originally from Cyprus, based on the East Coast US<br>🏃‍♀️ Former Division 1 student-athlete in track & field<br>✨ Passionate about tech startups, entrepreneurship, and business<br>💕 Cofounded a community thrift store in downtown Nicosia; currently helping with website development and managing operations remotely
+<br>🎓 Recent data science graduate with a background in mathematics and statistics<br>🏃‍♀️ Former Division 1 student-athlete in track & field<br>🌱 Exploring GANs and LLMs<br>🧠 Currently learning agents<br>✨ Passionate about tech startups, entrepreneurship, and business<br>💕 Cofounded a community thrift store in Cyprus
 
 
 # 💻 Tech Stack:
