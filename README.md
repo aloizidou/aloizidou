@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey you!! A little bit about Me:
 🎓 Recent data science graduate with a background in mathematics and statistics<br>🏃‍♀️ Former Division 1 student-athlete in track & field<br>💕 Cofounded a community thrift store in Cyprus<br>🌱 Exploring GANs and LLMs at the moment<br>🧠 Currently learning agents<br>✨ Passionate about tech startups, entrepreneurship, and business<br>
 
 
