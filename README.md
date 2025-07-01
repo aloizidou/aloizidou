@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 Current NLP Research Assistant @CognacLab<br>
-🎓 Recent data science graduate with a background in mathematics and statistics @FIU <br>🏃‍♀️ Former Division-1 student-athlete in track & field/ Cross-Country <br>💕 <br>🌱 Exploring GANs and LLMs at the moment -->> private repos;-/ <br>🧠 Currently learning agents<br>✨ Find tech startups and the business side of things SUPER cool! <br>
+🎓 Recent data science graduate with a background in mathematics and statistics @FIU <br>🏃‍♀️ Former Division-1 student-athlete in track & field/ Cross-Country <br>🌱 Exploring GANs and LLMs at the moment -->> private repos;-/ <br>🧠 Currently learning agents<br>✨ Find tech startups and the business side of things SUPER cool! <br>
 
 
 # 💻 Tech Stack:
